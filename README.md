@@ -167,7 +167,13 @@ You are welcome to join any of my project or raise an issue or any discussion!
     <b>Templates</b>
   </summary>
   Providing templates to speed up developing start up since we will need to create different framework projects among developing projects.
-  
+
+  - [Discord_CICD_Example](https://github.com/pyxudev/DiscordCICDTest)<br>
+    An excample to connect Discord and GitHub with CICD.
+
+  - [CircleCI_Template](https://github.com/pyxudev/CircleCI-Study-Repo)
+    A template for CircleCI.
+    
   - [Flask_APIserver_template](https://github.com/pyxudev/Flask_APIserver_template)<br>
     A Flask API server template.
 
@@ -198,8 +204,11 @@ You are welcome to join any of my project or raise an issue or any discussion!
   <summary>
     <b>Tutorials</b>
   </summary>
-
-  - [tutorials_and_documents](https://github.com/pyxudev/tutorials_and_documents)<br>
-  Several documents for tutorials and knowledges.
+  
+  - [Learn_GitHub](https://github.com/pyxudev/study)<br>
+    A repository for begginers to learn how to use GitHub.
+  
+  - [Tutorials_Documents](https://github.com/pyxudev/tutorials_and_documents)<br>
+    Several documents for tutorials and knowledges.
   ---
 </details>
