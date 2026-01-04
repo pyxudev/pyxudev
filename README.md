@@ -21,6 +21,7 @@ Justin Xu, a full-stack engineer, leader of `SenjuMeetup!`.<br>
 
   Senju Meetup! is an IT study organization started since Mar 2025.<br>
   For more details: [Connpass](https://kitasenju-verystrong.connpass.com/)
+  
   ---
 </details>
 
