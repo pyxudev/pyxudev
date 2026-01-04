@@ -14,16 +14,10 @@ Justin Xu, a full-stack engineer, leader of `SenjuMeetup!`.<br>
 ![](https://skillicons.dev/icons?i=jenkins,notion,wordpress,bitbucket,postman,sublime,stackoverflow,selenium)
 
 ## Personal Activities
-<details>
-  <summary>
-    <b>Senju Meetup!</b>
-  </summary>
+  - <b>Senju Meetup!</b>
 
   Senju Meetup! is an IT study organization started since Mar 2025.<br>
   For more details: [Connpass](https://kitasenju-verystrong.connpass.com/)
-  
-  ---
-</details>
 
 ## Personal Projects
 Those projects below are my personal projects help you know me better about my skills or what am I interested in.<br>
