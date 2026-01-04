@@ -177,7 +177,7 @@ You are welcome to join any of my project or raise an issue or any discussion!
   - [Flask_APIserver_template](https://github.com/pyxudev/Flask_APIserver_template)<br>
     A Flask API server template.
 
-  - [Electron_Project_Template](https://github.com/pyxudev/Electron-Start-Again)
+  - [Electron_Project_Template](https://github.com/pyxudev/Electron-Start-Again)<br>
     A fundamental Electron project template.
 
   - [Astro-Vue-Todo](https://github.com/pyxudev/Astro-Vue-Todo)
