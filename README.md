@@ -161,7 +161,7 @@ You are welcome to join any of my project or raise an issue or any discussion!
   </summary>
   Providing templates to speed up developing start up since we will need to create different framework projects among developing projects.
   
-  - [Install-Debian-dev-env-with-one-script](https://github.com/pyxudev/Install-Debian-dev-env-with-one-script)<br>
+  - [Debian-Development-Environment-Setup-Script](https://github.com/pyxudev/Debian-Development-Environment-Setup-Script)<br>
     This helps you to install develop environment with one script.
     Packages choosed by me.
 
