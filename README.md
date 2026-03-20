@@ -52,7 +52,7 @@ IT勉強会コミュニティ（2025年〜）
 
 ## 🧩 Featured Projects
 
-### 🌐 Web Apps
+### 🌐 Apps
 - 🤖 [AI Repo Scanner](https://github.com/pyxudev/AI-Repo-Scanner.github.io)
 - 📱 [AI Auto SNS](https://ai-auto-sns.vercel.app/)
 - 📱 [アレアレHelper](https://arearehelper.vercel.app/)  
@@ -61,7 +61,7 @@ IT勉強会コミュニティ（2025年〜）
 - 🤖 [AIreviewer](https://github.com/pyxudev/AIreviewer)
 - 📝 [studyLogger](https://github.com/pyxudev/studyLogger)
 - 🤝 [LINE_OC_Matching](https://github.com/pyxudev/LINE_OC_Matching)
-- 
+- 🖼️ [dot-local-llm-status](https://github.com/pyxudev/dot-local-llm-status)
 
 ---
 
