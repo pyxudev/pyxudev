@@ -44,7 +44,7 @@
 ## 🏀 Community
 
 ### Senju Meetup!
-IT勉強会コミュニティ（2025年〜）
+IT勉強会コミュニティ[千住Meetup!]（2025年〜）
 
 👉 https://kitasenju-verystrong.connpass.com/
 
